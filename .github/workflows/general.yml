@@ -1,4 +1,4 @@
-name: Rust
+name: Basic code checks and formatting
 
 on: [push, pull_request]
 
